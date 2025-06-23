@@ -17,7 +17,7 @@ A secure, web-based online voting platform that uses OTP authentication to ensur
 - *Backend:* PHP  
 - *Database:* MySQL  
 - *Local Server:* XAMPP
-- 
+  
 ## 🏁 How It Works
 
 1. Voter visits home.php and registers using their name and mobile number.
